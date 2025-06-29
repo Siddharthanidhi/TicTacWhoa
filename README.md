@@ -20,3 +20,12 @@
 - Python 3.7+  
 - Tkinter (usually included with Python)  
 
+---
+
+## ▶️ How to Run
+
+1. 📥 Clone or download the repo  
+2. 🏃 Run the main script:
+
+```bash
+python tic_tac_toe_gui.py
